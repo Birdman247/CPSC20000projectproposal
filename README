@@ -1,4 +1,9 @@
-This is a proposal for my CPSC20000 project, CrosswordHelper
+This is a proposal for my CPSC20000 project, CrosswordHelper and puzzle
+
+The application wound up creating an interactive crossword puzzle game: where users can input letters, 
+validate them against the correct answers, and view clues for the words to to help them solve the puzzle.
+
+https://github.com/Birdman247/puzzle
 
 All content here is original to me.
 
